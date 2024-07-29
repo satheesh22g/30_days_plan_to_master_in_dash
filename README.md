@@ -1,5 +1,3 @@
-# 30_days_plan_to_master_in_dash
-
 # 30-Day Plan to Master Dash
 
 ## Week 1: Fundamentals
